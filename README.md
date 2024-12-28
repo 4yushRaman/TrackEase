@@ -1,16 +1,3 @@
-# expense_tracker
+TrackEase: Effortless Expense Tracking at Your Fingertips!
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Take control of your finances with TrackEase—the smart, simple, and visually engaging expense tracker! With intuitive features like category-based tracking, real-time updates, and a sleek bar chart for instant insights, TrackEase makes budgeting fun and easy. See where your money goes, stay on top of your spending, and make smarter financial decisions—all in one app. Whether you're tracking meals, travel, or work expenses, TrackEase turns managing money into a breeze. Try it today and start tracking with ease!
